@@ -1,0 +1,32 @@
+"Source:","/home/dom/Documents/kicad/5v-supply.kicad_sch"
+"Date:","Thu 16 Jun 2022 04:25:48 PM CEST"
+"Tool:","Eeschema 6.0.5-2.fc36"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","10"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","C2","C","Device:C","Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm","~"
+"","","C3","C","Device:C","Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm","~"
+"","","C220uF1","C_Polarized","Device:C_Polarized","Capacitor_THT:CP_Radial_D10.0mm_P3.80mm","~"
+"","","D1","W06G","Diode_Bridge:W06G","Diode_THT:Diode_Bridge_Round_D9.8mm","https://www.vishay.com/docs/88769/woo5g.pdf"
+"","","J1","Screw_Terminal_01x02","Connector:Screw_Terminal_01x02","TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-02_P10.00mm","~"
+"","","J2","Screw_Terminal_01x02","Connector:Screw_Terminal_01x02","TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-02_P10.00mm","~"
+"","","Q1","BUZ11","Transistor_FET:BUZ11","Package_TO_SOT_THT:TO-220-3_Vertical","https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/BUZ11.pdf"
+"","","R20k1","R","Device:R","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal","~"
+"","","R47k1","R","Device:R","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal","~"
+"","","U1","LM7805_TO220","Regulator_Linear:LM7805_TO220","Package_TO_SOT_THT:TO-220-3_Vertical","https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","2","C2, C3","C","Device:C","Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm","~"
+"2","1","C220uF1","C_Polarized","Device:C_Polarized","Capacitor_THT:CP_Radial_D10.0mm_P3.80mm","~"
+"3","1","D1","W06G","Diode_Bridge:W06G","Diode_THT:Diode_Bridge_Round_D9.8mm","https://www.vishay.com/docs/88769/woo5g.pdf"
+"4","2","J1, J2","Screw_Terminal_01x02","Connector:Screw_Terminal_01x02","TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-02_P10.00mm","~"
+"5","1","Q1","BUZ11","Transistor_FET:BUZ11","Package_TO_SOT_THT:TO-220-3_Vertical","https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/BUZ11.pdf"
+"6","2","R20k1, R47k1","R","Device:R","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal","~"
+"7","1","U1","LM7805_TO220","Regulator_Linear:LM7805_TO220","Package_TO_SOT_THT:TO-220-3_Vertical","https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF"
