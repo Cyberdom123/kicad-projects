@@ -1747,7 +1747,7 @@
   )
 
   (symbol (lib_id "74xx:74HC164") (at 188.468 77.724 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 6259600e-a061-441c-9579-2875875c3743)
     (property "Reference" "U1" (id 0) (at 190.4874 62.484 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1755,7 +1755,7 @@
     (property "Value" "74HC164" (id 1) (at 190.4874 65.024 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "74hc164:74hc164DIP" (id 2) (at 211.328 85.344 0))
+    (property "Footprint" "74hc164:74hc164DIP" (id 2) (at 187.96 52.07 0))
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/74HC_HCT164.pdf" (id 3) (at 211.328 85.344 0)
       (effects (font (size 1.27 1.27)) hide)
     )
